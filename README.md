@@ -8,7 +8,6 @@
 # Section 2: Linux Distributions
 #### Many Linux distributions are available to meet just about any computing requirement you could have. Most distributions are customized for a specific user group, such as business users. Multimedia enthusiasts, software developers, or average home users.
 
-#### Ubuntu: Known for its user-friendliness and large community support.
 # Section 3: Basic Linux Commands
 # Basic Linux Commands:
 #### cd: Change Directory
@@ -16,7 +15,6 @@
 #### pwd: to check the directory path
 #### ls: to look list of files in current directory.
 #### cp: Copy files or directories
-
 
 # Conclusion
 #### Linux Operating System which is a powerful and flexible open-source operating system based on the Linux Kernel. With a collaborative global community, it offers security, frequent updates, and diverse distributions tailored to user needs.
